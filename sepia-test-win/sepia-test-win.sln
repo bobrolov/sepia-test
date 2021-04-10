@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sepia-test-win", "sepia-test-win\sepia-test-win.vcxproj", "{558A0AC4-AB90-4103-999F-CB2E23F98610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558A0AC4-AB90-4103-999F-CB2E23F98610}.Debug|x64.ActiveCfg = Debug|x64
+		{558A0AC4-AB90-4103-999F-CB2E23F98610}.Debug|x64.Build.0 = Debug|x64
+		{558A0AC4-AB90-4103-999F-CB2E23F98610}.Debug|x86.ActiveCfg = Debug|Win32
+		{558A0AC4-AB90-4103-999F-CB2E23F98610}.Debug|x86.Build.0 = Debug|Win32
+		{558A0AC4-AB90-4103-999F-CB2E23F98610}.Release|x64.ActiveCfg = Release|x64
+		{558A0AC4-AB90-4103-999F-CB2E23F98610}.Release|x64.Build.0 = Release|x64
+		{558A0AC4-AB90-4103-999F-CB2E23F98610}.Release|x86.ActiveCfg = Release|Win32
+		{558A0AC4-AB90-4103-999F-CB2E23F98610}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89785598-83E6-444F-B6B7-1C580CB10A8E}
+	EndGlobalSection
+EndGlobal

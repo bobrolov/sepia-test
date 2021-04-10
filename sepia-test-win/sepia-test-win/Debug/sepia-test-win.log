@@ -1,0 +1,12 @@
+﻿  sepia-test-win.cpp
+D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(237,93): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(240,93): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(243,93): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(260,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(267,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(275,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(278,93): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(281,93): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(284,93): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(313): warning C4715: SaveFile: значение возвращается не при всех путях выполнения
+  sepia-test-win.vcxproj -> D:\Cpp_Projects\sepia-test\sepia-test-win\Debug\sepia-test-win.exe
