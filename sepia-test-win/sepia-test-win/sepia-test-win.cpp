@@ -295,8 +295,8 @@ void WriteInfo(string address, bool isUseFstream, time_t startTime, time_t stopT
 	cout << "Bitmap width: " << to_string(bmpHeader.width) << endl;
 	cout << "Size : " << to_string(bmpHeader.size) << " pixels" << endl;
 	cout << "Used " << (isUseFstream ? "fstream" : "stdio") << " file processing system" << endl;
-	cout << "Processing time: " << to_string(processStopTime - processStartTime) << " ms" << endl;
-	cout << "All time: " << to_string(stopTime - startTime) << " ms" << endl;
+	cout << "Processing time: " << to_string((processStopTime - processStartTime) / (double) CLOCKS_PER_SEC) << " sec" << endl;
+	cout << "All time: " << to_string((stopTime - startTime) / (double) CLOCKS_PER_SEC) << " sec" << endl;
 	cout << endl;
 }
 #pragma endregion
