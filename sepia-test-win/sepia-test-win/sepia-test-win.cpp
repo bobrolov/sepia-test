@@ -205,9 +205,9 @@ bool BmpReadStdio(string address)
 /*Заполнить значения в структуре заголовка*/
 void BmpHeaderFill(BmpHeader* bmpHeader)
 {
-	bmpHeader->height = *(int*)&bmpHeader->header[HEIGHT_ADDR];
-	bmpHeader->width = *(int*)&bmpHeader->header[WIDTH_ADDR];
-	bmpHeader->type = *(short*)&bmpHeader->header[TYPE_ADDR];
+	bmpHeader->height = (int)&bmpHeader->header[HEIGHT_ADDR];
+	bmpHeader->width = (int)&bmpHeader->header[WIDTH_ADDR];
+	bmpHeader->type = (short)&bmpHeader->header[TYPE_ADDR];
 	bmpHeader->size = bmpHeader->height * bmpHeader->width;
 }
 

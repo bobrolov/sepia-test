@@ -309,7 +309,7 @@ bool SaveFile(string address, bool isUseFstream)
 	if (isUseFstream)
 		return SaveFileFstream(address);
 	else
-		SaveFileStdio(address);
+		return SaveFileStdio(address);
 }
 
 /*Сохранить, используя поток*/

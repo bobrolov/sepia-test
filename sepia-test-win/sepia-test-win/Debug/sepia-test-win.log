@@ -1,4 +1,5 @@
 ﻿  sepia-test-win.cpp
+D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(210,56): warning C4302: приведение типов: усечение из "char *" к "short"
 D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(237,93): warning C4244: =: преобразование "double" в "int", возможна потеря данных
 D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(240,93): warning C4244: =: преобразование "double" в "int", возможна потеря данных
 D:\Cpp_Projects\sepia-test\sepia-test-win\sepia-test-win\sepia-test-win.cpp(243,93): warning C4244: =: преобразование "double" в "int", возможна потеря данных
