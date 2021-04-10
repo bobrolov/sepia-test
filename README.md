@@ -1,6 +1,7 @@
 # sepia-test 
 
 Compil on Ubuntu via g++ compiler:
+1. install g++ via: sudo apt install g++
 1. download and unzip "source" folder
 1. Cd to that folder
 1. use command:
